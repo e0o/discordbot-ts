@@ -1,0 +1,2 @@
+fuc = "eto"
+fun
